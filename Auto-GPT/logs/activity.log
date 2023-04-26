@@ -1,0 +1,37 @@
+2023-04-26 09:13:46,649 INFO NEWS:   ::UPDATED:: Welcome to Auto-GPT! We'll keep you informed of the latest news and features by printing messages here.
+If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag
+
+# INCLUDED COMMAND 'send_tweet' IS DEPRICATED, AND WILL BE REMOVED IN THE NEXT STABLE RELEASE
+Base Twitter functionality (and more) is now covered by plugins: https://github.com/Significant-Gravitas/Auto-GPT-Plugins
+
+## Changes to Docker configuration
+The workdir has been changed from /home/appuser to /app. Be sure to update any volume mounts accordingly.
+
+
+2023-04-26 09:13:47,379 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-04-26 09:13:47,616 INFO Create an AI-Assistant: Enter the name of your AI and its role below. Entering nothing will load defaults.
+2023-04-26 09:13:48,059 INFO Name your AI:  For example, 'Entrepreneur-GPT'
+2023-04-26 09:14:31,387 INFO talib-ai here! I am at your service.
+2023-04-26 09:14:31,611 INFO Describe your AI's role:  For example, 'an AI designed to autonomously develop and run businesses with the sole goal of increasing your net worth.'
+2023-04-26 09:15:16,904 INFO Enter up to 5 goals for your AI:  For example: 
+Increase net worth, Grow Twitter Account, Develop and manage multiple businesses autonomously'
+2023-04-26 09:15:58,545 INFO Using memory of type: LocalCache
+2023-04-26 09:15:58,721 INFO Using Browser: chrome
+2023-04-26 09:16:18,617 INFO  THOUGHTS: I should start by researching some simple strategies to increase wealth. I can use the 'google' command to search for articles and blogs on the topic.
+2023-04-26 09:16:19,254 INFO REASONING: Researching simple strategies to increase wealth will help me identify actionable steps that I can take to achieve my goal.
+2023-04-26 09:16:19,770 INFO PLAN: 
+2023-04-26 09:16:19,850 INFO -  Use the 'google' command to search for articles and blogs on simple strategies to increase wealth.
+2023-04-26 09:16:20,298 INFO -  Read through the articles and identify actionable steps that I can take to achieve my goal.
+2023-04-26 09:16:20,783 INFO CRITICISM: I need to ensure that I am not wasting time reading irrelevant articles and blogs. I should focus on articles that provide actionable steps that I can take to increase my wealth.
+2023-04-26 09:16:21,363 INFO NEXT ACTION:  COMMAND = google  ARGUMENTS = {'input': 'simple strategies to increase wealth'}
+2023-04-26 09:22:46,248 INFO NEWS:  Welcome to Auto-GPT! We'll keep you informed of the latest news and features by printing messages here.
+If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag
+
+# INCLUDED COMMAND 'send_tweet' IS DEPRICATED, AND WILL BE REMOVED IN THE NEXT STABLE RELEASE
+Base Twitter functionality (and more) is now covered by plugins: https://github.com/Significant-Gravitas/Auto-GPT-Plugins
+
+## Changes to Docker configuration
+The workdir has been changed from /home/appuser to /app. Be sure to update any volume mounts accordingly.
+
+
+2023-04-26 09:22:46,951 INFO Welcome back!  Would you like me to return to being talib-ai?
